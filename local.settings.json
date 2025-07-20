@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "ZykAIfIJDYS2lK7h7t6RHZKcfk4KHGRXoX+yaT7P+WjL6wKF8pGpIlu1nn0wCI3/7Mtk8Dv3uaYW+AStReTMuA==",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "SqlConnectionString": "Server=tcp:sqlserversatkirat.database.windows.net,1433;Initial Catalog=imagemetadatadb;Persist Security Info=False;User ID=sqlserversatkirat;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  }
+}
