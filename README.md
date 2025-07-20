@@ -56,6 +56,10 @@ This project uses **Azure Durable Functions** to extract image metadata (width, 
   - Function App: `cst8917functionapp`
   - Resource Group: `cst8917`
   - SQL Database: `ImageMetadata` table (manually or mocked)
+![  Vs Code Terminal](https://github.com/Satkirat-kaur/CST8917Assignment/blob/main/terminal%20output%20of%20triggers.png)
+
+![Azure resources](https://github.com/Satkirat-kaur/CST8917Assignment/blob/main/Azure%20resources.png)
+
 
 ### 3. Blob Trigger & Orchestrator
 - Defined the `starter_function` with `@blob_trigger`
