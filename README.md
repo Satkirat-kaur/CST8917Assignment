@@ -54,7 +54,7 @@ This project uses **Azure Durable Functions** to extract image metadata (width, 
 - Created:
   - Blob storage container: `images-input`
   - Function App: `cst8917functionapp`
-  - Resource Group: `cst8917-rg`
+  - Resource Group: `cst8917`
   - SQL Database: `ImageMetadata` table (manually or mocked)
 
 ### 3. Blob Trigger & Orchestrator
